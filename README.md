@@ -13,6 +13,8 @@ This Jupyter notebook demonstrates the construction of a RAG system capable of a
 - Detailed Document Parsing: Uses MarkdownNodeParser to split documents into smaller, context-aware chunks (nodes) while preserving relationships and metadata.
 - Evaluation Framework: Includes a custom evaluation setup to assess the relevance and correctness of generated answers and retrieved contexts.
 
+![System architecture image](images/system-architecture.png)
+
 ## Setup
 To run this project, you'll need a Google Colab instance with GPU support for efficient embedding generation.
 
