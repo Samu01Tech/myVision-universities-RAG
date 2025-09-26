@@ -1,6 +1,6 @@
 ﻿# MyVision: Enhancing Academic Educational Guidance with Retrieval-Augmented Generation
 
-MyVision is a Retrieval-Augmented Generation (RAG) system designed to provide comprehensive academic educational guidance. This project aims to assist prospective university students by offering detailed information about 70 university courses across two universities, as well as information about university libraries.
+Uni-Mate (formerly MyVision) is a Retrieval-Augmented Generation (RAG) system designed to provide comprehensive academic educational guidance. This project aims to assist prospective university students by offering detailed information about 70 university courses across two universities, as well as information about university libraries.
 
 ## Project Overview
 This Jupyter notebook demonstrates the construction of a RAG system capable of answering questions related to university courses and libraries. The system leverages a combination of advanced natural language processing techniques and efficient data retrieval mechanisms to provide accurate and relevant information.
